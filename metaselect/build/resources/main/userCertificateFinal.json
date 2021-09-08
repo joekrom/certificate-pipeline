@@ -1,0 +1,105 @@
+
+  { "userID" : "userID",
+    "prod-skill-constraint" : 
+    [ 
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5PASCAL",
+        "InstrumentCode" : "1110",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1110",
+        "#text" : "LSM 5 PASCAL" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5xx",
+        "InstrumentCode" : "",
+        "InstrumentCodeIRI" : "",
+        "#text" : "LSM 5xx" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5PASCALEXCITER",
+        "InstrumentCode" : "1112",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1112",
+        "#text" : "LSM 5 PASCAL Exciter" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5EXCITER",
+        "InstrumentCode" : "1113",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1113",
+        "#text" : "LSM 5 Exciter" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM510",
+        "InstrumentCode" : "1120",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1120",
+        "#text" : "LSM 510 HW Rel. 1.6 ... 3.2" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM510",
+        "InstrumentCode" : "1121",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1121",
+        "#text" : "LSM 510 HW Rel. 3.5 and higher" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5LIVE",
+        "InstrumentCode" : "1130",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1130",
+        "#text" : "LSM 5 LIVE HW Rel. 3.5" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5LIVE",
+        "InstrumentCode" : "1131",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1131",
+        "#text" : "LSM 5 LIVE HW Rel. 5.0" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5DUO",
+        "InstrumentCode" : "1160",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1160",
+        "#text" : "LSM 5 DUO" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM510DuoScan",
+        "InstrumentCode" : "1161",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1161",
+        "#text" : "LSM 510 DuoScan" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5LIVEDuoScan",
+        "InstrumentCode" : "1162",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1162",
+        "#text" : "LSM 5 LIVE DuoScan HW Rel. 3.5" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#LSM5LIVEDuoScan",
+        "InstrumentCode" : "1163",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-1163",
+        "#text" : "LSM 5 LIVE DuoScan HW Rel. 5.0" },
+      
+      { "HWProdIRI" : "http:\/\/metadata.zeiss.de\/mic#0163",
+        "InstrumentCode" : "0163",
+        "InstrumentCodeIRI" : "http:\/\/metadata.zeiss.de\/mic#IC-0163",
+        "#text" : "XVision" } ],
+    "meta-constraint" : 
+    [ 
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/DocumentType",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#ServiceInstruction",
+        "#text" : "Service Manual" },
+      
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/DocumentType",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#DiagramOrSchema",
+        "#text" : "Diagrams and Schemas" },
+      
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/DocumentType",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#PartsAndToolsList",
+        "#text" : "Parts and Tools Catalogs" },
+      
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/DocumentType",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#SparePart",
+        "#text" : "Spare Parts" },
+      
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/Protection-Class",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#ProtClass2",
+        "#text" : "Confidential" },
+      
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/Target-Group",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#BusinessPartner",
+        "#text" : "Business Partner" },
+      
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/Target-Group",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#Customer",
+        "#text" : "Customer" },
+      
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/Content-Origin",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#Community",
+        "#text" : "Community" },
+      
+      { "metadataclass" : "https:\/\/schema.zeiss.com\/CZ-Ontology\/Content-Origin",
+        "metadataIRI" : "http:\/\/metadata.zeiss.de\/mic#Company",
+        "#text" : "Company" } ] }

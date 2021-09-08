@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns="http://www.w3.org/2005/xpath-functions">
+   <string key="userID">userID</string>
+   <array key="prod-skill-constraint">
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5PASCAL</string>
+         <string key="InstrumentCode">1110</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1110</string>
+         <string key="#text">LSM 5 PASCAL</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5xx</string>
+         <string key="InstrumentCode"/>
+         <string key="InstrumentCodeIRI"/>
+         <string key="#text">LSM 5xx</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5PASCALEXCITER</string>
+         <string key="InstrumentCode">1112</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1112</string>
+         <string key="#text">LSM 5 PASCAL Exciter</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5EXCITER</string>
+         <string key="InstrumentCode">1113</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1113</string>
+         <string key="#text">LSM 5 Exciter</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM510</string>
+         <string key="InstrumentCode">1120</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1120</string>
+         <string key="#text">LSM 510 HW Rel. 1.6 ... 3.2</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM510</string>
+         <string key="InstrumentCode">1121</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1121</string>
+         <string key="#text">LSM 510 HW Rel. 3.5 and higher</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5LIVE</string>
+         <string key="InstrumentCode">1130</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1130</string>
+         <string key="#text">LSM 5 LIVE HW Rel. 3.5</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5LIVE</string>
+         <string key="InstrumentCode">1131</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1131</string>
+         <string key="#text">LSM 5 LIVE HW Rel. 5.0</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5DUO</string>
+         <string key="InstrumentCode">1160</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1160</string>
+         <string key="#text">LSM 5 DUO</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM510DuoScan</string>
+         <string key="InstrumentCode">1161</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1161</string>
+         <string key="#text">LSM 510 DuoScan</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5LIVEDuoScan</string>
+         <string key="InstrumentCode">1162</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1162</string>
+         <string key="#text">LSM 5 LIVE DuoScan HW Rel. 3.5</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#LSM5LIVEDuoScan</string>
+         <string key="InstrumentCode">1163</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-1163</string>
+         <string key="#text">LSM 5 LIVE DuoScan HW Rel. 5.0</string>
+      </map>
+      <map>
+         <string key="HWProdIRI">http://metadata.zeiss.de/mic#0163</string>
+         <string key="InstrumentCode">0163</string>
+         <string key="InstrumentCodeIRI">http://metadata.zeiss.de/mic#IC-0163</string>
+         <string key="#text">XVision</string>
+      </map>
+   </array>
+   <array key="meta-constraint">
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/DocumentType</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#ServiceInstruction</string>
+         <string key="#text">Service Manual</string>
+      </map>
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/DocumentType</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#DiagramOrSchema</string>
+         <string key="#text">Diagrams and Schemas</string>
+      </map>
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/DocumentType</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#PartsAndToolsList</string>
+         <string key="#text">Parts and Tools Catalogs</string>
+      </map>
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/DocumentType</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#SparePart</string>
+         <string key="#text">Spare Parts</string>
+      </map>
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/Protection-Class</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#ProtClass2</string>
+         <string key="#text">Confidential</string>
+      </map>
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/Target-Group</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#BusinessPartner</string>
+         <string key="#text">Business Partner</string>
+      </map>
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/Target-Group</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#Customer</string>
+         <string key="#text">Customer</string>
+      </map>
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/Content-Origin</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#Community</string>
+         <string key="#text">Community</string>
+      </map>
+      <map>
+         <string key="metadataclass">https://schema.zeiss.com/CZ-Ontology/Content-Origin</string>
+         <string key="metadataIRI">http://metadata.zeiss.de/mic#Company</string>
+         <string key="#text">Company</string>
+      </map>
+   </array>
+</map>

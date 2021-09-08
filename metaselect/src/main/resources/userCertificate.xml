@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<certificate userID="141260" targetsystem="MIRA" sourcesystem="PoolParty">
+   <prod-skill-constraints>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5PASCAL"
+                             InstrumentCode="1110"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1110">LSM 5 PASCAL</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5xx"
+                             InstrumentCode=""
+                             InstrumentCodeIRI="">LSM 5xx</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5PASCALEXCITER"
+                             InstrumentCode="1112"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1112">LSM 5 PASCAL Exciter</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5EXCITER"
+                             InstrumentCode="1113"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1113">LSM 5 Exciter</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM510"
+                             InstrumentCode="1120"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1120">LSM 510 HW Rel. 1.6 ... 3.2</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM510"
+                             InstrumentCode="1121"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1121">LSM 510 HW Rel. 3.5 and higher</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5LIVE"
+                             InstrumentCode="1130"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1130">LSM 5 LIVE HW Rel. 3.5</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5LIVE"
+                             InstrumentCode="1131"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1131">LSM 5 LIVE HW Rel. 5.0</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5DUO"
+                             InstrumentCode="1160"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1160">LSM 5 DUO</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM510DuoScan"
+                             InstrumentCode="1161"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1161">LSM 510 DuoScan</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5LIVEDuoScan"
+                             InstrumentCode="1162"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1162">LSM 5 LIVE DuoScan HW Rel. 3.5</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#LSM5LIVEDuoScan"
+                             InstrumentCode="1163"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-1163">LSM 5 LIVE DuoScan HW Rel. 5.0</prod-skill-constraint>
+      <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#0163"
+                             InstrumentCode="0163"
+                             InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-0163">XVision</prod-skill-constraint>
+   </prod-skill-constraints>
+   <meta-constraints>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/DocumentType"
+                       metadataIRI="http://metadata.zeiss.de/mic#ServiceInstruction">Service Manual</meta-constraint>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/DocumentType"
+                       metadataIRI="http://metadata.zeiss.de/mic#DiagramOrSchema">Diagrams and Schemas</meta-constraint>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/DocumentType"
+                       metadataIRI="http://metadata.zeiss.de/mic#PartsAndToolsList">Parts and Tools Catalogs</meta-constraint>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/DocumentType"
+                       metadataIRI="http://metadata.zeiss.de/mic#SparePart">Spare Parts</meta-constraint>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Protection-Class"
+                       metadataIRI="http://metadata.zeiss.de/mic#ProtClass2">Confidential</meta-constraint>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Target-Group"
+                       metadataIRI="http://metadata.zeiss.de/mic#BusinessPartner">Business Partner</meta-constraint>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Target-Group"
+                       metadataIRI="http://metadata.zeiss.de/mic#Customer">Customer</meta-constraint>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Content-Origin"
+                       metadataIRI="http://metadata.zeiss.de/mic#Community">Community</meta-constraint>
+      <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Content-Origin"
+                       metadataIRI="http://metadata.zeiss.de/mic#Company">Company</meta-constraint>
+   </meta-constraints>
+</certificate>

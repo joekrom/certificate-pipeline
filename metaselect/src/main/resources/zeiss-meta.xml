@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='userID'/>
+		<variable name='roleU4I'/>
+		<variable name='documenttype_metadataclass'/>
+		<variable name='documenttype_metadataIRI'/>
+		<variable name='documenttype_label'/>
+	    
+		<variable name='protectionclass_metadataclass'/>
+		<variable name='protectionclass_metadataIRI'/>
+		<variable name='protectionclass_label'/>
+	    
+		<variable name='targetgroup_metadataclass'/>
+		<variable name='targetgroup_metadataIRI'/>
+		<variable name='targetgroup_label'/>
+	    
+		<variable name='contentorigin_metadataclass'/>
+		<variable name='contentorigin_metadataIRI'/>
+		<variable name='contentorigin_label'/>
+	    
+		<variable name='documentstatus_metadataclass'/>
+		<variable name='documentstatus_metadataIRI'/>
+		<variable name='documentstatus_label'/>
+	</head>
+	<results>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Business Partner</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ServiceInstruction</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Community</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#BusinessPartner</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Service Manual</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Community</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Business Partner</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DiagramOrSchema</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Community</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#BusinessPartner</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Diagrams and Schemas</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Community</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Business Partner</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#PartsAndToolsList</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Community</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#BusinessPartner</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Parts and Tools Catalogs</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Community</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Business Partner</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#SparePart</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Community</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#BusinessPartner</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Spare Parts</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Community</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Business Partner</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ServiceInstruction</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Company</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#BusinessPartner</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Service Manual</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Company</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Business Partner</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DiagramOrSchema</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Company</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#BusinessPartner</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Diagrams and Schemas</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Company</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Business Partner</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#PartsAndToolsList</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Company</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#BusinessPartner</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Parts and Tools Catalogs</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Company</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Business Partner</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#SparePart</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Company</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#BusinessPartner</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Spare Parts</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Company</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='targetgroup_label'>
+				<literal xml:lang='en-us'>Customer</literal>
+			</binding>
+			<binding name='roleU4I'>
+				<uri>http://metadata.zeiss.de/mic#TestRole2</uri>
+			</binding>
+			<binding name='documenttype_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/DocumentType</uri>
+			</binding>
+			<binding name='documenttype_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#SparePart</uri>
+			</binding>
+			<binding name='documentstatus_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Document-Status</uri>
+			</binding>
+			<binding name='protectionclass_label'>
+				<literal xml:lang='en-us'>Confidential</literal>
+			</binding>
+			<binding name='contentorigin_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Content-Origin</uri>
+			</binding>
+			<binding name='userID'>
+				<literal>101010</literal>
+			</binding>
+			<binding name='contentorigin_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Community</uri>
+			</binding>
+			<binding name='documentstatus_label'>
+				<literal xml:lang='en-us'>Active</literal>
+			</binding>
+			<binding name='targetgroup_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#Customer</uri>
+			</binding>
+			<binding name='documentstatus_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#DocumentActive</uri>
+			</binding>
+			<binding name='documenttype_label'>
+				<literal xml:lang='en-us'>Spare Parts</literal>
+			</binding>
+			<binding name='protectionclass_metadataIRI'>
+				<uri>http://metadata.zeiss.de/mic#ProtClass2</uri>
+			</binding>
+			<binding name='contentorigin_label'>
+				<literal xml:lang='en-us'>Community</literal>
+			</binding>
+			<binding name='targetgroup_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Target-Group</uri>
+			</binding>
+			<binding name='protectionclass_metadataclass'>
+				<uri>https://schema.zeiss.com/CZ-Ontology/Protection-Class</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

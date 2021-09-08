@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<entry type="sourcesystem">
+		<entry type="name">Poolparty</entry>
+		<entry type="protocol">https</entry>
+		<entry type="host">zeiss-test.poolparty.biz</entry>
+		<entry type="login">
+			<entry type="user">metaselect</entry>
+			<entry type="pwd">u6ErnvZrpQ</entry>
+		</entry>
+		<entry type="ontologyBasePath">https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/</entry>
+		<!-- this URL is used by XSL to get ontology-type -->
+		<entry type="idBasePath">https://zeiss-test.poolparty.biz/MICMetadata/</entry>
+		<!-- this URLs is used by XSL to get internal poolparty id  -->
+	</entry>
+	<entry type="languages"> <!-- attribute ui denotes which language is user interface language -->
+		<entry type="language" key="en" keyIso="EN" master="true">en</entry><!--England/USA-->
+		<entry type="language" key="de" keyIso="DE" ui="true">de</entry><!--Deutschland-->
+		<entry type="language" key="bg" keyIso="BG">bg-BG</entry><!--Bulgarien-->
+		<entry type="language" key="cs" keyIso="CZ">cs-CZ</entry><!--Tschechien-->
+		<entry type="language" key="da" keyIso="DK">da-DK</entry><!--Dänemark-->
+		<entry type="language" key="el" keyIso="GR">el-GR</entry><!--Griechenland-->
+		<entry type="language" key="es" keyIso="ES">es-ES</entry><!--Spanien-->
+		<entry type="language" key="et" keyIso="EE">et-EE</entry><!--Estland-->
+		<entry type="language" key="fi" keyIso="FI">fi-FI</entry><!--Finland-->
+		<entry type="language" key="fr" keyIso="FR">fr-FR</entry><!--Frankreich-->
+		<entry type="language" key="hu" keyIso="HU">hu-HU</entry><!--Ungarn-->
+		<entry type="language" key="it" keyIso="IT">it-it</entry><!--Italien-->
+		<entry type="language" key="ja" keyIso="JP">ja-JP</entry><!--Japan-->
+		<entry type="language" key="lv" keyIso="LV">lv-LV</entry><!--Lettland-->
+		<entry type="language" key="lt" keyIso="LT">lt-LT</entry><!--Litauen-->
+		<entry type="language" key="nl" keyIso="NL">nl-NL</entry><!--Niederlande-->
+		<entry type="language" key="pl" keyIso="PL">pl-PL</entry><!--Polen-->
+		<entry type="language" key="pt" keyIso="PT">pt-PT</entry><!--Portugal-->
+		<entry type="language" key="ro" keyIso="RO">ro-RO</entry><!--Rumänien-->
+		<entry type="language" key="ru" keyIso="RU">ru-RU</entry><!--Russland-->
+		<entry type="language" key="sk" keyIso="SK">sk-SK</entry><!--Slovakei-->
+		<entry type="language" key="sl" keyIso="SI">sl-SI</entry><!--Slowenien-->
+		<entry type="language" key="sv" keyIso="SE">sv-SE</entry><!--Schweden-->
+		<entry type="language" key="tr" keyIso="TR">tr-TR</entry><!--Türkei-->
+		<entry type="language" key="zh" keyIso="CN">zh-CN</entry><!--China-->
+	</entry>
+	<entry type="requests">
+		<entry type="topconcets">
+			<entry type="path">/PoolParty/sparql/MICMetadata</entry> 
+		</entry>
+		<entry type="tree">
+			<entry type="path">/PoolParty/api/thesaurus/1E267050-DDA9-0001-911C-BA7017C09940/subtree</entry>
+			<entry type="param" name="root">https://zeiss-test.poolparty.biz/MICMetadata/</entry>
+			<entry type="param" name="properties">https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/InstrumentCode, skos:altLabel, skos:definition, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/IRI, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/URI4IRI, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/SAPCompLocKey_2, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/SAPCompKey_2, http://schema.semantic-web.at/ppt/appliedType, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/SAPProdKeySHIFT, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/SortKeyESC, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/MapWidenProduct2MICComp, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/MapWidenProduct2MICProd, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/MapWidenProduct2MICSWMod, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/MapWidenProduct2MICSWProd, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/MapWidenRocType2MICDocType, http://www.w3.org/2004/02/skos/core#definition</entry>
+			<entry type="param" name="short_props">skos:altLabel, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/IRI, https://zeiss-test.poolparty.biz/CZ-MIC-Ontology/URI4IRI</entry>
+			<entry name="excludeIRI">http://metadata.zeiss.de/cz#ShadowWiden</entry>
+		</entry>
+	</entry>
+	<entry type="savelocal">false</entry><!-- set to false if output should be returned as download -->
+	<entry type="targetsystems">
+		<entry key="ST4" type="outputPath">E:\Dateien\Projekte\Zeiss\out\ST4</entry>
+		<entry key="TID" type="outputPath">E:\Dateien\Projekte\Zeiss\out\TID</entry>
+		<entry key="EMPOLIS" type="outputPath">E:\Dateien\Projekte\Zeiss\out\EMPOLIS</entry>
+		<entry key="EMPOLISWIDEN" type="outputPath">E:\Dateien\Projekte\Zeiss\out\EMPOLISWIDEN</entry>
+	</entry>
+	<entry type="uitexts">
+		<entry key="TEXT_FORM_HEAD">
+			<entry lang="de">Poolparty Metadaten</entry>
+			<entry lang="en">Poolparty Meta Data</entry>
+		</entry>
+		<entry key="TEXT_FORM_BUTTON">
+			<entry lang="de">Daten abfragen</entry>
+			<entry lang="en">Request data</entry>
+		</entry>
+		<entry key="TEXT_FORM_TARGET">
+			<entry lang="de">Zielsystem</entry>
+			<entry lang="en">Target System</entry>
+		</entry>
+		<entry key="TEXT_FORM_SCHEME">
+			<entry lang="de">Concept Scheme</entry>
+			<entry lang="en">Concept Scheme</entry>
+		</entry>
+		<entry key="TEXT_ERROR_NO_PARAM">
+			<entry lang="de">Kein Parameter ausgewählt</entry>
+			<entry lang="en">Parameter not selected</entry>
+		</entry>
+		<entry key="TEXT_ERROR_NO_DATA">
+			<entry lang="de">Es konnten keine Daten abgefragt werden</entry>
+			<entry lang="en">No data could be downloaded</entry>
+		</entry>
+		<entry key="TEXT_ERROR_PIPELINE">
+			<entry lang="de">Fehler bei der Ausführung der Datentransformation</entry>
+			<entry lang="en">Error during data transformation</entry>
+		</entry>
+		<entry key="TEXT_ERROR_DOWNLOAD">
+			<entry lang="de">Fehler beim Übermitteln der Ergebnisdatei</entry>
+			<entry lang="en">Error during transmission of output file</entry>
+		</entry>
+		<entry key="TEXT_MSG_SAVED">
+			<entry lang="de">Datei gespeichert als </entry>
+			<entry lang="en">File saved as </entry>
+		</entry>
+	</entry>
+</config>

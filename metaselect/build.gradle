@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+    id 'maven'
+    id 'application'
+    id 'idea'
+    id 'com.github.johnrengelman.shadow' version '4.0.0'
+}
+
+group 'de.axxepta'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+mainClassName = 'de.axxepta.metaselect.Certificate'
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'http://repo.axxepta.com/maven'
+    }
+    mavenLocal()
+}
+
+configurations {
+    releaseJars
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile 'de.axxepta:converterservices:0.13.2'
+
+    releaseJars 'de.axxepta:converterservices:0.13.2'
+
+    // https://mvnrepository.com/artifact/com.google.code.gson/gson
+    compile 'com.google.code.gson:gson:2.8.7'
+
+    releaseJars 'com.google.code.gson:gson:2.8.7'
+}

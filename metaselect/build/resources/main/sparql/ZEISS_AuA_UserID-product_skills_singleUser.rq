@@ -1,0 +1,39 @@
+# ZEISS AUA UserID - skills for product
+# Query all access rights of a SINGLE USER and return their skills for products including those products inside hierarchies / market views
+
+PREFIX dcterms:<http://purl.org/dc/terms/>
+PREFIX skos:<http://www.w3.org/2004/02/skos/core#>
+PREFIX czo:<https://schema.zeiss.com/CZ-Ontology/>
+
+SELECT DISTINCT (STRAFTER((STR(?userU4I)), "#") AS ?userID) 
+                ?HWProdIRI 
+                (STRAFTER((STR(?InstrumentCodeIRI)), "#IC-") AS ?InstrumentCode) 
+                ?InstrumentCodeIRI 
+                ?HWProdLabel 
+
+WHERE {
+
+# choose user by ZeissID
+VALUES ?ZeissID {"141260"}
+?user a czo:User .
+?user czo:URI4IRI ?userU4I .
+FILTER(STRAFTER(STR(?userU4I), "http://metadata.zeiss.de/mic#") = ?ZeissID )
+
+# user has skills for product (für product subtree, with label & U4I, with InstrumentCode)
+?user czo:User-has-skills-for-Product ?product .
+
+#give me all of a users's products that are contained in Market View or Hardware Product Hierarchie (traversing)
+OPTIONAL {   
+?product czo:Market-View-contains-Hardware-Product/skos:narrower* | skos:narrower* ?product_subtree_element .
+?product_subtree_element skos:prefLabel ?HWProdLabel ;
+    czo:URI4IRI ?HWProdIRI .
+}
+
+#if they have one, give me those products' Instrument Code (hierarchy nodes or market views have none)
+OPTIONAL { 
+?product_subtree_element czo:ProductHasInstumentCode ?product_subtree_element_IC .
+?product_subtree_element_IC czo:URI4IRI ?InstrumentCodeIRI .
+}
+
+FILTER(langMatches(lang(?HWProdLabel), "en-US"))
+}

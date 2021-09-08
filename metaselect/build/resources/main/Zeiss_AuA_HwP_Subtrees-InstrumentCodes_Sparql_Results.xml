@@ -1,0 +1,4478 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='HWProdIRI'/>
+		<variable name='InstrumentCode'/>
+		<variable name='InstrumentCodeSubtree'/>
+	</head>
+	<results>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0126</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0126</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0126</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0367</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0367</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0367</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0125</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0125</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0125</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0246</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0246</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0246</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1214</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1214</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1214</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0128</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0128</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0128</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0369</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0369</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0369</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0127</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0127</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0127</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0248</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0248</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0248</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1213</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1213</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1213</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0124</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0124</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0124</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#S360FE</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0201</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0201</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM25</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4642</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4642</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Lightsheet</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>2583,2589,2595</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert200</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3819</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3819</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#SIGMA</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0214,0213,0113</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0122</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0122</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0122</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3874</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3874</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3874</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0121</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0121</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0121</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3872</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3872</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3872</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0123</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0123</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0123</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#PST</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8010,0246,0112,0146</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#GeminiSEM560</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8219</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8219</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1350</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1350</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1350</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0140</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0140</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0140</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#SmartProof</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4705</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MultiSEM_series</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8209</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0142</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0142</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0142</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0141</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0141</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0141</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Imager_2</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3524,3527,3525,3537,3535,3523</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Stemi_DV4_series</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3904</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3535</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3535</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3535</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0269</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0269</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0269</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0148</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0148</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0148</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert100</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3811</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3811</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0147</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0147</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0147</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1115</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1115</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1115</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StemiDR+D</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3901</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3901</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0149</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0149</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0149</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0169x</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0169</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0169</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#EVO</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0111,8001,0106,0108,0107,0110,0109</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1114</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1114</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1114</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3537</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3537</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3537</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Smartzoom</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4703</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0267</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0267</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0267</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0146</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0146</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0146</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#STS</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4671</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4671</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5LIVE</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1130</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1130</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0370</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0370</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0370</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3874,3872,3871,3825,3801,3806,3811,3814,3816,3817,3819,3820,3807</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0130</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0130</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0130</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1340</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1340</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1340</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5LIVE</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1131</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1131</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1580</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0131</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0131</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Jenaphot</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5039</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5039</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0144</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0144</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0144</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0143</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0143</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0143</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0145</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0145</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0145</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Jenaval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5029</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5029</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM50</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4646</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4646</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM510DuoScan</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1161</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1161</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#KF2</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3102</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3102</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3524</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3524</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3524</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3527</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3527</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3527</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0137</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0137</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0137</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0136</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0136</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0136</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3525</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3525</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3525</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0139</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0139</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0139</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_CSM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4710</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0138</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0138</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0138</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3523</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3523</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3523</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM35</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4644</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4644</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Uprightlegacy</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3401,5006,5007,5008,5009,5010,5011,5012,5013,5014,5015,5016,5017,5018,5019,5020,5022,5028,5029,5030,5034,5035,5036,5037,5039,5040,3604,3701,3101,3102,3103,3104,3105,3106,3201,3301,3302,3303,3402,3403,3404,3405,3501,3601,3602,3603,3502,5313,5314,3503,3504,3505,3506,3507,3508,3509,3510,3511,3202,3304,3305,3306,3307,3308,3309</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3154</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3154</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3154</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Cell_Observer</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1420</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#InvertoskopD+M</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3802</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3802</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1222</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1222</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1222</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0253</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0253</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0253</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM40</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4645</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4645</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ORION</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0253,0153,0154</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#BioRadianceSystems</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1182</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1182</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Inverteclegacy</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5021,5023,5024,5025,5026,5027,3802,3803,3804,3805,3823,3826</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#AxioImager.A1</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3517</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3517</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Technival</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5003</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5003</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5DUO</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1160</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1160</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#STANDARD25ICS</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3106</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3106</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#AURIGA</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0137,0165,0138</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioskop2FSplus</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3306</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3306</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM55</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4648</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4648</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LEOseries</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0201,0129,0131</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Amplival</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5012</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5012</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3176</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3176</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3176</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StemiSV6</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3910</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3910</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiotech</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3401</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3401</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiotech100HD</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3403</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3403</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM60</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4649</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4649</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM_7xx</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1114,1122,1123,1164,1132,1170</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LIBRA</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0148,0248,0147</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#DSMseries</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0135</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5EXCITER</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1113</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1113</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Photomikroskop1</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3601</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3601</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Photomikroskop2</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3602</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3602</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM15</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4640</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4640</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LCM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1214,1213,1241,1222,1220,1221,1210,1211,1212,1230,1240</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Photomikroskop3</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3603</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3603</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Scope</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3321</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#BioRad</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1180,1181,1182</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#SteREO_Discovery_B</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3911</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#STANDARD25</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3105</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3105</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#AxioImager.D1</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3513</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3513</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Eduval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5009</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5009</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Standard/Junior/WL</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3101</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3101</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#STANDARD20</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3104</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3104</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MicroBeamII</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1211</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1211</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1455non-uniplinth</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0105</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0105</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#GSZ/GSM</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5002</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5002</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#nano</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0369,0469</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3874,3872,3871,3825,3936,3847,3846,3849,3848,3832,3834,3833,3862,3861,3863,3321,3341,3344,3343,3135,3858,3866,3865,3867,3859,3860,3524,3527,3525,3537,3535,3523,4710,3107,3801,3806,3811,3814,3816,3817,3819,3820,3807,3512,3513,3516,3517</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1540</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0129</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0129</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert135</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3816</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3816</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2man</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3503</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3503</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3913</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3913</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3913</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3343</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3343</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3343</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3911</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3911</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3911</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Visioner1</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4708</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4708</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3341</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3341</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3341</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3912</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3912</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3912</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1164</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1164</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1164</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#KF2ICS</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3103</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3103</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXS50</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4652</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4652</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2cod</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3504</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3504</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1170</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1170</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1170</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Sedival</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5027</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5027</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM_9xx</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>2842</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3107</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3107</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3107</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Laboval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5010</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5010</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Ultra_XRM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0370,0270,0470</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2imagingEmot</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3511</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3511</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#15xx</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0126,0128,0127,0130</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Epityp</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5023</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5023</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#DSM950</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0133</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0133</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3344</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3344</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3344</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#White_TEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0151</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXC60</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4663</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4663</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3936</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3936</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3936</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#2842</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>2842</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>2842</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Primo_Star_grouping</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3112</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#InvertoskopID02-03</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3803</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3803</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HIM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0253,0153,0154</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Jenalab</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5014</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5014</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ConfoCor2-LSM510-Combi</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1150</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1150</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Ultraphot</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3604</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3604</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert10-35-35M</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3801</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3801</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0162</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0162</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0162</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1132</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1132</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1132</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0161</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0161</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0161</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0164</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0164</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0164</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3920</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3920</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3920</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Vert_A1</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3847,3846,3849,3848</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0163</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0163</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0163</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#2583</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>2583</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>2583</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0160</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0160</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0160</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2imagingEman</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3509</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3509</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioskop2plus</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3304</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3304</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Stereolegacy</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5002,5003,5004,5005,3901,3902,3903,3905,3906,3907,3908,3910,3919</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Primotech_grouping</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3154</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM15R</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4641</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4641</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Crossbeam</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0166,8404,0164,8403</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8010</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8010</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8010</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#2589</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>2589</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>2589</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Observer_3_5_7</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3858,3866,3865,3867,3859,3860</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0168</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0168</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0168</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0151</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0151</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0151</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1360</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1360</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1360</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0153</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0153</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0153</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#CellDiscoverer</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4638</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1241</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1241</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1241</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Primostar_grouping</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3176,3198</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0270</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0270</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0270</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#NEON</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0139,0144,0140</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#AxiotechVario</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3402</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3402</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0166</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0166</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0166</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0165</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0165</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0165</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0167</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0167</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0167</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert405</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3806</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3806</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#XRM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0269,0569,0169,0370,0270,0470,0369,0469,0267,0168,0367,0167,8807,8806,9008</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Widefield</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3874,3872,3871,3912,3911,3950,3909,3904,3920,3913,3946,1214,1213,1241,1222,3112,3154,3844,3841,3825,3936,3847,3846,3849,3848,3832,3834,3833,3862,3861,3863,3321,3341,3344,3343,3135,3858,3866,3865,3867,3859,3860,3524,3527,3525,3537,3535,3523,4710,3107,1220,1221,1210,1211,1212,1230,1240,5021,5023,5024,5025,5026,5027,3801,3802,3803,3804,3805,3806,3823,3826,3811,3814,3816,3817,3819,3820,3807,5002,5003,5004,5005,3901,3902,3903,3905,3906,3907,3908,3910,3919,3401,5006,5007,5008,5009,5010,5011,5012,5013,5014,5015,5016,5017,5018,5019,5020,5022,5028,5029,5030,5034,5035,5036,5037,5039,5040,3604,3701,3101,3102,3103,3104,3105,3106,3201,3301,3302,3303,3402,3403,3404,3405,3501,3601,3602,3603,3512,3513,3516,3517,3502,5313,5314,3503,3504,3505,3506,3507,3508,3509,3510,3511,3202,3304,3305,3306,3307,3308,3309,4670,4671,4672,4673,4660,4661,4662,4663,4640,4641,4642,4643,4644,4645,4646,4647,4648,4649,4650,4651,4652,3176,3198,4708</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0159</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0159</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0159</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0158</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0158</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0158</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StativNf</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5008</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5008</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StativNg</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5007</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5007</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#CombiSystemIII</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1221</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1221</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#4660</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4660</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4660</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0157</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0157</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0157</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiotech25HD</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3405</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3405</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#4638</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4638</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4638</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Versa</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0267,0168,0367,0167,8807,8806,9008</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ConfoCor1Standalone</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1140</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1140</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1123</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1123</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1123</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#14xx</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0203,0202,0205,0204</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0155</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0155</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0155</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0154</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0154</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0154</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1122</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1122</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1122</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#4631</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4631</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4631</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0156</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0156</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0156</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert25</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3807</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3807</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1124</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1124</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1124</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#AxioImager.Z1</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3512</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3512</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Pictoval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5015</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5015</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#NVision</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0141</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Imager_1</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3512,3513,3516,3517</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3321</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3321</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3321</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1143</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1143</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1143</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#2595</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>2595</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>2595</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MERLIN</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0125,0124</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Jenavert</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5036</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5036</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#AxioskopFS</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3303</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3303</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StativLg</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5006</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5006</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8403</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8403</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8403</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#CSEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0203,0202,0205,0204,0111,8001,0106,0108,0107,0110,0109,8010,0246,0112,0146,0132,0133,0134,0101,0102,0103,0104,0105</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3198</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3198</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3198</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Epival</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5019</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5019</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM510</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1120</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1120</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM510</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1121</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1121</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Fluoval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5013</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5013</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MIRAXSCAN</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4624</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4624</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3860</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3860</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3860</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0470</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0470</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0470</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#AxioImager.M1</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3516</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3516</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MicroBeamIII</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1212</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1212</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#R-MicroBeam</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1210</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1210</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8404</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8404</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8404</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#InvertoskopC</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3823</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3823</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioskop40Pol</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3309</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3309</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0115</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0115</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0115</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0114</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0114</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0114</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#DSM96</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0134</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0134</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0117</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0117</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0117</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0116</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0116</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0116</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Stemi_5xx_series</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3950</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0113</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0113</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0113</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Peravalinterphako</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5016</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5016</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert200M</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3820</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3820</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3867</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3867</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3867</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Metaval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5021</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5021</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3865</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3865</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3865</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#DSM94</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0132</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0132</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0119</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0119</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0119</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0118</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0118</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0118</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#TEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0151,0148,0248,0147,0149</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3866</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3866</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3866</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0111</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0111</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0111</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3863</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3863</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3863</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#4710</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4710</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4710</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0110</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0110</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0110</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1320</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1320</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1320</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM20Ergostar</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4643</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4643</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3861</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3861</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3861</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0112</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0112</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0112</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3862</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3862</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3862</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Examiner_1</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3341,3344,3343</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Plastival</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5005</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5005</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MIRAXDESK</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4625</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4625</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiostar</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3107</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert100M</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3814</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3814</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioscan</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4660</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXV50</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4650</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4650</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#JenapolU</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5035</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5035</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Stereo</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3912,3911,3950,3909,3904,3920,3913,3946</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#IM-IM35</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3804</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3804</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Lab</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3135</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Automated</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4631,4638,4624,4625,4626,4660</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#JenapolD</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5034</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5034</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StemiDRC</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3907</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3907</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ULTRA_FESEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0122,0121,0123</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Epignost</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5020</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5020</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiospeed</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3701</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3701</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#15xx_XB</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0143,0142</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0203</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0203</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0203</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0202</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0202</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0202</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Neophot2</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5024</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5024</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0205</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0205</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0205</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0204</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0204</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0204</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#9008</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>9008</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>9008</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3834</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3834</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3834</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1430non-uniplinth</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0103</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0103</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Stemi1,2,3,4</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3906</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3906</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Jenalumar</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5030</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5030</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3832</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3832</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3832</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0569</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0569</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0569</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2imagingEcod</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3510</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3510</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3833</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3833</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3833</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5PASCAL</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1110</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1110</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#BioRadCellmap</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1180</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1180</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1410</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1410</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1410</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3950</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3950</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3950</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#DSM982</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0135</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0135</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3704</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3704</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3704</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3946</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3946</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3946</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3825</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3825</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3825</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Stemi1000</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3908</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3908</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXC50</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4662</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4662</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioskop2motplus</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3305</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3305</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3705</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3705</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3705</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StemiSV8</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3905</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3905</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3702</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3702</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3702</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#R-CombiSystem</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1220</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1220</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MicroTweezersIII</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1240</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1240</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#SUPRA</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0114,0116,0115,0118,0117,0120,0119</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3703</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3703</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3703</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#14xxlegacy</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0101,0102,0103,0104,0105</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3707</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3707</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3707</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2mot</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3505</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3505</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#TIRF</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1410</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert135M</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3817</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3817</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ConfoCor</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1143,1140,1141,1150,1151</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#FESEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8218,8219,0114,0116,0115,0118,0117,0120,0119,8216,0225,0224,0125,0124,0214,0213,0113,0126,0128,0127,0130,0122,0121,0123,0135,0201,0129,0131,8217</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3858</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3858</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3858</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXC20</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4660</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4660</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#4705</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4705</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4705</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0225</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0225</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0225</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM_8xx</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1115,1124</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Micro</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0269,0569,0169</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0224</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0224</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0224</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3859</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3859</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3859</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0469</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0469</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0469</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0106</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0106</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0106</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXCU65</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4672</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4672</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2imagingcod</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3507</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3507</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#4703</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4703</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4703</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0108</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0108</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0108</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Telaval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5026</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5026</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXC25</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4661</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4661</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0107</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0107</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0107</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0109</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0109</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0109</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Ergaval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5011</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5011</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1310</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1310</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1310</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2imagingman</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3506</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3506</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioskop-50</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3302</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3302</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXS30</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4651</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4651</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3847</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3847</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3847</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Jenamed</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5028</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5028</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0214</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0214</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0214</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0213</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0213</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0213</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3848</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3848</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3848</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1420non-uniplinth</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0102</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0102</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3112</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3112</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3112</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3846</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3846</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3846</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3874,3872,3871,1310,1320,1340,1330,3702,1360,1350,3704,3703,3707,3705,4703,3912,4631,4638,2583,1115,1124,1410,1420,1143,1184,1183,1185,1114,1122,1123,1164,1132,1170,3911,3950,3909,3904,3920,3913,3946,1214,1213,1241,1222,3112,3154,3844,3841,3825,3936,3847,3846,3849,3848,3832,3834,3833,3862,3861,3863,3321,3341,3344,3343,3135,3858,3866,3865,3867,3859,3860,3524,3527,3525,3537,3535,3523,4710,3107,1180,1181,1182,1140,1141,1150,1151,1110,1112,1113,1120,1121,1130,1131,1160,1161,1162,1163,4624,4625,4626,1220,1221,1210,1211,1212,1230,1240,5021,5023,5024,5025,5026,5027,3801,3802,3803,3804,3805,3806,3823,3826,3811,3814,3816,3817,3819,3820,3807,5002,5003,5004,5005,3901,3902,3903,3905,3906,3907,3908,3910,3919,3401,5006,5007,5008,5009,5010,5011,5012,5013,5014,5015,5016,5017,5018,5019,5020,5022,5028,5029,5030,5034,5035,5036,5037,5039,5040,3604,3701,3101,3102,3103,3104,3105,3106,3201,3301,3302,3303,3402,3403,3404,3405,3501,3601,3602,3603,3512,3513,3516,3517,3502,5313,5314,3503,3504,3505,3506,3507,3508,3509,3510,3511,3202,3304,3305,3306,3307,3308,3309,4670,4671,4672,4673,4660,4661,4662,4663,4640,4641,4642,4643,4644,4645,4646,4647,4648,4649,4650,4651,4652,2842,2589,2595,3176,3198,4705,4708</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3844</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3844</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3844</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ConfoCor3-LSM510-Combi</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1151</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1151</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MikroskopKM</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3201</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3201</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1420</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1420</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1420</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#mSEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8209</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3841</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3841</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3841</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3849</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3849</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3849</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiolab</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3202</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3202</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#OEM_EM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8207,0156,0155,0158,0157,0160,0159,0162,0161,0136,0145,0163</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8806</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8806</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8806</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8807</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8807</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8807</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8001</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8001</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8001</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Scan</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4631</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StemiSV11</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3919</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3919</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StemiIVb</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3903</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3903</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#BioRadMRC1024</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1181</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1181</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#S360</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0101</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0101</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Docuval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5017</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5017</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioskop2FSmot</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3307</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3307</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5LIVEDuoScan</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1162</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1162</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5LIVEDuoScan</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1163</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1163</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXKS34</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4673</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4673</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#SteREO_Lumar</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3913</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Epiquant</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5025</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5025</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Citoval</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5004</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5004</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3909</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3909</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3909</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioskop40</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3308</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3308</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#EasyBeam</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1230</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1230</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3904</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3904</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3904</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Universal</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3501</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3501</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan1</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3502</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3502</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MIRAXMIDI</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4626</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4626</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioskop20</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3301</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3301</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1185</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1185</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1185</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1184</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1184</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1184</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1183</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1183</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1183</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3135</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3135</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3135</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#DSMlegacy</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0132,0133,0134</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Digital</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4703,4705</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Nu2</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5018</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5018</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Stemi_2000_series</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3909</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Invertoskop40</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3826</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3826</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiophot2</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5314</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5314</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiophot1</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5313</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5313</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axioplan2imagingmot</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3508</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3508</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ELYRA</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1184,1183,1185</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Observer_1</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3832,3834,3833,3862,3861,3863</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Coolcut</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4670</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4670</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5xx</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1110,1112,1113,1120,1121,1130,1131,1160,1161,1162,1163</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#GeminiSEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8218,8219,8216,0225,0224,8217</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ICM405</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3805</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3805</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8209</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8209</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8209</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM_7</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1164,1132,1170</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Primo</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3112,3154,3844,3841,3176,3198</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8207</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8207</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8207</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Vertival</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5022</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5022</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Jenaplan</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5040</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5040</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#GeminiSEM360</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8217</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8217</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#FIBSEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0166,8404,0164,8403,0143,0142,0137,0165,0138,0139,0144,0140,0141</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#OEM_LM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1310,1320,1340,1330,3702,1360,1350,3704,3703,3707,3705</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiotech25H</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3404</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3404</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#SamplePreparationlegacy</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4670,4671,4672,4673,4660,4661,4662,4663,4640,4641,4642,4643,4644,4645,4646,4647,4648,4649,4650,4651,4652</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axiovert_40_series</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3825</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#SteREO_Discovery_A</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3912,3920</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Axio_Zoom</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3936</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#8216</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8216</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8216</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#ConfoCor2Standalone</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1141</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1141</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Primovert</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3844,3841</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1450non-uniplinth</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0104</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0104</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#EM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8218,8219,8209,0114,0116,0115,0118,0117,0120,0119,8216,0225,0224,0125,0124,0214,0213,0113,0126,0128,0127,0130,0122,0121,0123,0203,0202,0205,0204,0111,8001,0106,0108,0107,0110,0109,8010,0246,0112,0146,0166,8404,0164,8403,0143,0142,0137,0165,0138,0139,0144,0140,0141,8207,0156,0155,0158,0157,0160,0159,0162,0161,0136,0145,0163,0132,0133,0134,0101,0102,0103,0104,0105,0135,0201,0129,0131,8217</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3D</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>2583,1115,1124,1410,1420,1143,1184,1183,1185,1114,1122,1123,1164,1132,1170,1180,1181,1182,1140,1141,1150,1151,1110,1112,1113,1120,1121,1130,1131,1160,1161,1162,1163,2842,2589,2595</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#3871</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3871</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3871</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#GeminiSEM460</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>8218</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>8218</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Jenatechinspection</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>5037</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>5037</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#1330</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1330</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1330</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#0120</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>0120</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0120</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#HYRAXM50H</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>4647</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4647</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Red_TEM</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>0149</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#Stemi_3xx_series</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3946</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#LSM5PASCALEXCITER</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>1112</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>1112</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#MIRAX</uri>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>4624,4625,4626</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='HWProdIRI'>
+				<uri>http://metadata.zeiss.de/mic#StemiSR</uri>
+			</binding>
+			<binding name='InstrumentCode'>
+				<literal>3902</literal>
+			</binding>
+			<binding name='InstrumentCodeSubtree'>
+				<literal>3902</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

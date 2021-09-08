@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+    <head>
+        <variable name='userID'/>
+        <variable name='HWProdIRI'/>
+        <variable name='InstrumentCode'/>
+        <variable name='InstrumentCodeIRI'/>
+        <variable name='HWProdLabel'/>
+    </head>
+    <results>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1110</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5PASCAL</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1110</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5 PASCAL</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5xx</uri>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5xx</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1112</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5PASCALEXCITER</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1112</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5 PASCAL Exciter</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1113</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5EXCITER</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1113</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5 Exciter</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1120</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM510</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1120</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 510 HW Rel. 1.6 ... 3.2</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1121</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM510</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1121</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 510 HW Rel. 3.5 and higher</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1130</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5LIVE</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1130</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5 LIVE HW Rel. 3.5</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1131</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5LIVE</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1131</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5 LIVE HW Rel. 5.0</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1160</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5DUO</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1160</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5 DUO</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1161</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM510DuoScan</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1161</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 510 DuoScan</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1162</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5LIVEDuoScan</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1162</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5 LIVE DuoScan HW Rel. 3.5</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-1163</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#LSM5LIVEDuoScan</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>1163</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>LSM 5 LIVE DuoScan HW Rel. 5.0</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+        <result>
+            <binding name='InstrumentCodeIRI'>
+                <uri>http://metadata.zeiss.de/mic#IC-0163</uri>
+            </binding>
+            <binding name='HWProdIRI'>
+                <uri>http://metadata.zeiss.de/mic#0163</uri>
+            </binding>
+            <binding name='InstrumentCode'>
+                <literal>0163</literal>
+            </binding>
+            <binding name='HWProdLabel'>
+                <literal xml:lang='en-us'>XVision</literal>
+            </binding>
+            <binding name='userID'>
+                <literal>101010</literal>
+            </binding>
+        </result>
+    </results>
+</sparql>

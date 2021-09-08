@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE certificate SYSTEM "file:/C:/_short-local/Berechtigungskonzept/certificate.dtd">
+<!-- 06.07.2021: Instrumentencode als 4 chars ist für MiraParts und Abfrage von Mira Parts an Mira ausreichend. -->
+<!-- 06.07.2021: Mit Empolis klären, ob IC als IRI benötigt wird.-->
+<certificate userID="141260" targetsystem="MIRA"  sourcesystem="PoolParty">
+    <prod-skill-constraints>
+        <prod-skill-constraint  HWProdIRI="http://metadata.zeiss.de/mic#0225" InstrumentCode="0225" InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-0225">Geminisem 300</prod-skill-constraint>
+        <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#8216" InstrumentCode="8216" InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-8216" >Geminisem 450</prod-skill-constraint>
+        <prod-skill-constraint HWProdIRI="http://metadata.zeiss.de/mic#0224" InstrumentCode="0224" InstrumentCodeIRI="http://metadata.zeiss.de/mic#IC-0224" >Geminisem 500, SL2</prod-skill-constraint>
+    </prod-skill-constraints>
+    <meta-constraints>
+        <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/DocumentType" metadataIRI="http://metadata.zeiss.de/mic#SparePart">Spare Part</meta-constraint>
+        <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/DocumentType" metadataIRI="http://metadata.zeiss.de/mic#PartsAndToolsList">Parts and Tools Catalog</meta-constraint>
+        <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/DocumentType" metadataIRI="http://metadata.zeiss.de/mic#ServiceInstruction">Service Instruction</meta-constraint>
+        <meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Protection-Class" metadataIRI="http://metadata.zeiss.de/mic#ProtClass2">Confidential</meta-constraint>
+		<meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Target-Group" metadataIRI="http://metadata.zeiss.de/mic#Service">Service</meta-constraint>
+		<meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Content-Origin" metadataIRI="http://metadata.zeiss.de/mic#Community">Community</meta-constraint>
+		<meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Content-Origin" metadataIRI="http://metadata.zeiss.de/mic#Company">Company</meta-constraint>
+		<meta-constraint metadataclass="https://schema.zeiss.com/CZ-Ontology/Document-Status" metadataIRI="http://metadata.zeiss.de/mic#DocumentActive">Active</meta-constraint>
+    </meta-constraints>
+</certificate>
